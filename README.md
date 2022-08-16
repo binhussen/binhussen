@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed Hussen<a href="https://github.com/binhussen" target="blank"</a></h1>
+<h1 align="center">Hi 👋, I'm Mohammed Hussen<a href="https://github.com/binhussen" target="blank"></a></h1>
 
 ## I'm a Developer, Mentor and Tech enthusiast
 
