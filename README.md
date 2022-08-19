@@ -17,15 +17,6 @@
 <a href="mailto:binhussens@gmail.com" target="_blank"><img  alt="Email" width="26px" src="./img/gmail.svg" style="padding-right:10px;" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/binhussen" target="_blank"><img  alt="LInkedin" width="26px" src="./img/linkedin-light.svg" style="padding-right:10px;" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/binhussens" target="_blank"><img  alt="Twitter" width="26px" src="./img/twitter-light.svg" style="padding-right:10px;" /></a>
-
-[![binhussens@gmail.com.com](./img/gmail.svg)](mailto:binhussens@gmail.com)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/binhussen#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/binhussen#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/binhussens#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/binhussens#gh-dark-mode-only)
-&nbsp;&nbsp;
 </p>
 
 ![line](./img/line.gif)
