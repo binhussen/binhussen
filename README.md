@@ -12,6 +12,11 @@
 ![line](./img/line.gif)
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<br />
+<p align="center">
+<a href="mailto:binhussens@gmail.com" target="_blank"><img  alt="Email" width="26px" src="./img/gmail.svg" style="padding-right:10px;" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/binhussen" target="_blank"><img  alt="LInkedin" width="26px" src="./img/linkedin-light.svg" style="padding-right:10px;" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/binhussens" target="_blank"><img  alt="Twitter" width="26px" src="./img/twitter-light.svg" style="padding-right:10px;" /></a>
 
 [![binhussens@gmail.com.com](./img/gmail.svg)](mailto:binhussens@gmail.com)
 &nbsp;&nbsp;
@@ -21,6 +26,7 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/binhussens#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/binhussens#gh-dark-mode-only)
 &nbsp;&nbsp;
+</p>
 
 ![line](./img/line.gif)
 
@@ -28,16 +34,16 @@
 <br />
 
 <p align="center">
-  <a href="https://www.w3schools.com/html/" target="_blank"><img  alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /><img alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" /></a>
-  <a href="https://sass-lang.com/" target="_blank"></a>
+  <a href="https://www.w3schools.com/html/" target="_blank"><img  alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /></a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /></a>&nbsp;&nbsp;
+  <a href="https://sass-lang.com/" target="_blank"><img alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" /></a>&nbsp;&nbsp;
   <a href="https://www.javascript.com/" target="_blank"><img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /></a>
-  <a href="https://sass-lang.com/" target="_blank"></a>
-  <a href="https://reactjs.org/" target="_blank"><img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" /></a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank"><img alt="Ruby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" style="padding-right:10px;" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /></a>
-  <a href="https://git.com/" target="_blank"><img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></a>
+  <a href="https://sass-lang.com/" target="_blank"></a>&nbsp;&nbsp;
+  <a href="https://reactjs.org/" target="_blank"><img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /></a>&nbsp;&nbsp;
+  <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" /></a>&nbsp;&nbsp;
+  <a href="https://www.ruby-lang.org/en/" target="_blank"><img alt="Ruby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" style="padding-right:10px;" /></a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /></a>&nbsp;&nbsp;
+  <a href="https://git.com/" target="_blank"><img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></a>&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" /></a>
 </p>
 
