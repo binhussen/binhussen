@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning Ruby on rails
 - 🤝 I’m available for freelancing.
 - 👯 I’m looking to collaborate with other software developers
-- 🥅 2022 Goals: Learn more about Backend development
 - :nerd_face: Always `learning new things`
 - 📄 Know about my experiences <a href="https://docs.google.com/document/d/16OfJStTs2U4wLbkDATVi5DX8BHEONNBQC7vT2ezq2Z8/edit?usp=sharing" target="blank">Resume</a>
 
