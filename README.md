@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Mentor and Tech enthusiast
 
-- 🌱 I’m currently learning React,Ruby on rails
+- 🌱 I’m currently learning Ruby on rails
 - 🤝 I’m available for freelancing.
 - 👯 I’m looking to collaborate with other software developers
 - 🥅 2022 Goals: Learn more about Backend development
