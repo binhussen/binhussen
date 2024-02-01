@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohammed Hussen<a href="https://github.com/binhussen" target="blank"></a></h1>
 
-## I'm a Developer, Mentor and Tech enthusiast
+## I'm a Developer, Mentor, and Tech enthusiast
 
-- 🌱 I’m currently learning .Net Core, Node.js, GraphQL, and AWS Amplify ...
+- 🌱 I’m currently learning Devops and AWS Amplify ...
 - 🤝 I’m available for freelancing.
 - 👯 I’m looking to collaborate with other software developers
 - :nerd_face: Always `learning new things`
-- ✅ Check out my <a rel="noopener" href="https://docs.google.com/document/d/16OfJStTs2U4wLbkDATVi5DX8BHEONNBQC7vT2ezq2Z8/edit?usp=sharing" target="blank">Resume</a>
+- ✅ Check out my <a rel="noopener" href="https://docs.google.com/document/d/1vrtTNO2Nc9FqXGlmUW7pzkNHB0MSyj8_8iLebw1dMgU/edit?usp=sharing" target="blank">Resume</a>
 
 ![line](./img/line.gif)
 
